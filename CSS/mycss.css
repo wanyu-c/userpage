@@ -1,0 +1,117 @@
+ /*<link rel="stylesheet" href="CSS/mycss">*/
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&family=Zen+Maru+Gothic&display=swap');
+
+ /* Pet Nordic */
+ :root {
+    /* 品牌色 */
+    --pet-primary: #D6DDE1;
+    /* 霧藍灰 */
+    --pet-secondary: #D8D5CE;
+    /* 淺燕麥灰 */
+
+    /* 背景色 */
+    --bg-primary: #FDFCFB;
+    /* 暖白 */
+    --bg-secondary: #F7F6F4;
+    /* 奶霧白 */
+    --bg-card: #FFFFFF;
+
+    /* 文字色 */
+    --text-primary: #787E83;
+    /* 柔灰 */
+    --text-secondary: #A5ABB0;
+    /* 淺灰 */
+    --text-light: #FFFFFF;
+
+    /* 邊框色 */
+    --border-primary: #E7E9EA;
+    --border-secondary: #F1F2F3;
+
+    /* 強調色 */
+    --paw-accent: #E8DDD6;
+    /* 肉球奶霜色 */
+    --sky-accent: #DCE4E8;
+    /* 晴空霧藍 */
+    --leaf-accent: #DCE4DE;
+    /* 霧草綠 */
+ }
+
+ :root {
+    /* 品牌色 */
+    --primary: #B7C9D3;
+    /* 霧藍 */
+
+    --secondary: #E8E1D8;
+    /* 奶茶米色 */
+
+    /* 背景色 */
+    --bg-primary: #FCFBF9;
+    /* 暖白 */
+
+    --bg-secondary: #F5F6F7;
+    /* 霧白藍 */
+
+    --bg-card: #FFFFFF;
+
+    /* 文字色 */
+    --text-primary: #4E5962;
+    /* 深霧灰藍 */
+
+    --text-secondary: #8A959D;
+    /* 淺灰藍 */
+
+    --text-light: #FFFFFF;
+
+    /* 邊框色 */
+    --border-primary: #E4E8EB;
+    /* 淺霧藍灰 */
+
+    --border-secondary: #F0F3F5;
+    /* 極淡霧白藍 */
+
+    /* 強調色 */
+    --accent-coral: #F0A58A;
+    /* 柔和珊瑚橘 */
+
+    --accent-sky: #DCE8EF;
+    /* 淺天空藍 */
+
+    --accent-sage: #D8E2DA;
+    /* 淡鼠尾草綠 */
+ }
+
+ .fw-100 {
+    font-weight: 100;
+ }
+
+ .fw-200 {
+    font-weight: 200;
+ }
+
+ .fw-300 {
+    font-weight: 300;
+ }
+
+ .fw-400 {
+    font-weight: 400;
+ }
+
+ .fw-500 {
+    font-weight: 500;
+ }
+
+ .fw-600 {
+    font-weight: 600;
+ }
+
+ .fw-700 {
+    font-weight: 700;
+ }
+
+ .fw-800 {
+    font-weight: 800;
+ }
+
+ .fw-900 {
+    font-weight: 900;
+ }
